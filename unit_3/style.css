@@ -1,32 +1,10 @@
 h1{text-align: center;
-	color: #FFA500
-	
+	color: #FFA500	
 }
 body{
 	text-align: center;
 	background-color: #556b2f;
 	color:#39ff14;
-}
-#slogan{
-	text-align: center;
-	font-style: italic;
-	color: #fff;
-}
-#mission {
-	text-align: left;
-	color:#fff;
-}
-#upcoming {
-	text-align: right;
-	color:#fff;
-}
-#contact {
-	text-align: left;
-	color:#fff;
-}
-#map {
-	text-align: right;
-	color:#fff;
 }
 a {
 	color:#FFFF00;

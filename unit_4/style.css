@@ -1,0 +1,29 @@
+head{
+	
+}
+h1{ 
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	color: #FFA500	
+}
+h2{
+	font-family: 'Poppins', sans-serif;
+	text-align: left;
+	color: #FFA500
+}
+body{
+	font-size: 1.5ew;
+	font-family: 'Bree Serif', serif;
+	text-align: center;
+	background-color: #556b2f;
+	color:#39ff14;
+}
+a {
+	font-family: 'Poppins', sans-serif;
+	color:#FFFF00;
+}
+ul{
+	font-family: 'Bree Serif', serif;
+	text-align: center;
+	list-style-type: none;
+}
