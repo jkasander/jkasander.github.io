@@ -1,0 +1,101 @@
+header{
+	background-color: #556b2f;
+	padding: 20px;
+}
+nav{
+	background-color: #556b2f;
+	border: 1px black solid;
+	padding: 20px;
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	color: #FFA500	
+}
+.clearfix:after{
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+#upper {
+    background-color: #556b2f;
+    padding: 20px;
+}
+#mission {
+    background-color: #808080;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+#testimonials {
+    background-color: #808080;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    width: 62%;
+}
+#lower {
+    background-color: #556b2f;
+    padding: 20px;
+}
+#map {
+    background-color: #808080;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 62%;
+}
+#upcoming {
+    background-color: #808080;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    width: 30%;
+}
+aside{
+	background-color: #556b2f;
+	border: 1px black solid;
+	padding: 20px;
+	color: #FFA500;
+}
+article{
+	background-color: #556b2f;
+	border: 1px black solid;
+	padding: 20px;
+	color: #FFA500;
+
+}
+footer{
+	background-color: #556b2f;
+	border: 1px black solid;
+	padding: 20px;
+}
+h1{ 
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	color: #FFA500	
+}
+h2{
+	font-family: 'Poppins', sans-serif;
+	color: #FFA500;
+}
+body{
+	background-color: #556b2f;
+	font-size: 1.5ew;
+	font-family: 'Bree Serif', serif;
+	text-align: center;
+}
+a {
+	font-family: 'Poppins', sans-serif;
+	color: #FFA500;
+
+}
+ul{
+	font-family: 'Bree Serif', serif;
+	text-align: center;
+	list-style-type: none;
+	color: #FFA500;
+
+}
