@@ -1,14 +1,15 @@
 header{
 	background-color: #556b2f;
 	padding: 20px;
+	height:300px;
 }
 nav{
 	background-color: #556b2f;
-	border: 2px black solid;
+	text-align: center;
 	padding: 20px;
 	font-family: 'Poppins', sans-serif;
-	text-align: center;
-	color: #FFA500	
+	font-size: 20px;
+	color: #FFA500;
 }
 .clearfix:after{
     visibility: hidden;
@@ -18,9 +19,22 @@ nav{
     clear: both;
     height: 0;
 }
-#upper {
-    background-color: #556b2f;
+#header img{
+	float:left;
+	padding:20px;
+}
+#header h1 h2{
+	float:right;
+}
+#opening{
+	background-color: #808080;
+    border: 1px black solid;
     padding: 20px;
+    float: right;
+    width:60%;
+}
+#upper {
+	padding: 20px;
 }
 #mission {
     background-color: #808080;
@@ -37,8 +51,7 @@ nav{
     width: 62%;
 }
 #lower {
-    background-color: #556b2f;
-    padding: 20px;
+	padding: 20px;
 }
 #map {
     background-color: #808080;
@@ -74,7 +87,12 @@ footer{
 }
 h1{ 
 	font-family: 'Poppins', sans-serif;
-	text-align: center;
+	font-size: 50px;
+	color: #FFA500	
+}
+h3{
+	font-family: 'Poppins', sans-serif;
+	font-size: 40px;
 	color: #FFA500	
 }
 h2{
@@ -82,14 +100,16 @@ h2{
 	color: #FFA500;
 }
 body{
-	background-color: #556b2f;
-	font-size: 1.5ew;
+	background-image: url(images/farmland.jpeg);
+	background-color: #cccccc;
 	font-family: 'Bree Serif', serif;
+	color: #FFA500;
 	text-align: center;
 }
 a {
 	font-family: 'Poppins', sans-serif;
 	color: #FFA500;
+	font-size: 25px;
 
 }
 ul{
@@ -97,5 +117,7 @@ ul{
 	text-align: center;
 	list-style-type: none;
 	color: #FFA500;
-
+}
+p{
+	font-size: 20px;
 }
