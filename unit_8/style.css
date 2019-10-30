@@ -10,7 +10,7 @@ header img{
 nav{
 	background-color: #556b2f;
 	text-align: center;
-	padding: 1.2px;
+	padding: 1.2em;
 	font-family: 'Poppins', sans-serif;
 	font-size: 1em;
 	color: #FFA500;
@@ -29,19 +29,19 @@ nav a {
 }
 #header img{
 	float:left;
-	padding:20px;
-}
+	}
 #header h1 h2{
 	float:right;
+	padding: 1.2em;
 }
 #upper {
-	padding: 20px;
+	padding: 1.2em;
 	background-color: white;
 }
 #mission {
     background-color: #808080;
     border: .05em black solid;
-    padding: 20px;
+    padding: 1.2em;
     float: left;
     width: 30%;
     font-size: .75em;
@@ -161,5 +161,12 @@ ul{
 	}
 	h3{
 		font-size:1.5em;
+	}
+	nav a {
+		display: block;
+		margin: bottom 1em;
+	}
+	#header img{
+		float: none;
 	}
 }
